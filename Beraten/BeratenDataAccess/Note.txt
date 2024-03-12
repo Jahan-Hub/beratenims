@@ -1,0 +1,10 @@
+﻿Differ by Companywise
+in all table should be companyid
+PK, FK, UNIQUE, 
+decimal/doulble/int?
+Indexes
+Userwise access
+backup db
+Multi-Tenancy:
+authentication and authorization 
+Audit Trail: 
